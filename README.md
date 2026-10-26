@@ -9,3 +9,4 @@
 | [**prompt-polish**](https://github.com/Albert-ycc/prompt-polish) | Claude Code 插件：把随手写的草稿改写成完整提示词 | 改写时会参考当前项目和你的工作习惯，补上这次任务真正缺的信息 |
 | [**figma-eye**](https://github.com/Albert-ycc/figma-eye) | 在 Figma 里给原型留评论，Claude 在后台改稿，改完在原评论下回帖 | 不用再截图、口头说明是哪一屏哪个元素，在 Figma 里直接评论，评论钉在哪，Claude 就改哪 |
 | [**Origin Workbench**](https://github.com/Albert-ycc/origin-workbench) | 把团队协作的多 Agent 平台改成单人本地工作台 | 在自己电脑上让多个 AI Agent 协作：分派任务、跟进度，拿不准的事拉几个 Agent 一起讨论 |
+| [**组卷工作台**](https://github.com/Albert-ycc/exam-workbench) | 组卷网链接入库、拖拽组卷、改题设分，按配置出试卷（PDF / Word）与答题卡的 Windows 桌面应用 | 试题按章节、知识点、难度、标签归类筛选；试卷版式照老师手排的卷子来，PDF 把每页余量摊成作答空白；答题卡按题型自动排版，计算题把题目抄进框里 |
